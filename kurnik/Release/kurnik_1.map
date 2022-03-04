@@ -1,0 +1,1233 @@
+Archive member included because of file (symbol)
+
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                              ./adc/adc.o (__mulsi3)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+                              ./ds1307/ds1307.o (__udivmodqi4)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                              ./calc/calc.o (__udivmodhi4)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                              ./adc/adc.o (__divmodsi4)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm16.o (exit)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              ./menu/menu.o (__do_copy_data)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              ./lcd/lcd.o (__do_clear_bss)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                              ./calc/calc.o (__fixunssfsi)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                              ./calc/calc.o (__subsf3)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                              ./calc/calc.o (__mulsf3)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                              ./calc/calc.o (__divsf3)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                              ./calc/calc.o (__gtsf2)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                              ./calc/calc.o (__gesf2)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                              ./calc/calc.o (__ltsf2)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+                              ./calc/calc.o (__floatsisf)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                              ./calc/calc.o (__floatunsisf)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o) (__udivmodsi4)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o) (__clzsi2)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o) (__clz_tab)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+                              ./lcd/lcd.o (itoa)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(acos.o)
+                              ./calc/calc.o (acos)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(addsf3x.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(acos.o) (__addsf3x)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(asin.o)
+                              ./calc/calc.o (asin)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cos.o)
+                              ./calc/calc.o (cos)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(floor.o)
+                              ./calc/calc.o (floor)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_arccos.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(acos.o) (__fp_arccos)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_inf.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(addsf3x.o) (__fp_inf)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mintl.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(floor.o) (__fp_mintl)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mpack.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(floor.o) (__fp_mpack)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_nan.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(addsf3x.o) (__fp_nan)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_powser.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_arccos.o) (__fp_powser)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_powsodd.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(asin.o) (__fp_powsodd)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_pscA.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(addsf3x.o) (__fp_pscA)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_pscB.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(addsf3x.o) (__fp_pscB)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_rempio2.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cos.o) (__fp_rempio2)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_round.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(acos.o) (__fp_round)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_sinus.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cos.o) (__fp_sinus)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_split3.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(addsf3x.o) (__fp_split3)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_trunc.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(floor.o) (__fp_trunc)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_zero.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(addsf3x.o) (__fp_zero)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsf3x.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_arccos.o) (__mulsf3x)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sin.o)
+                              ./calc/calc.o (sin)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sqrt.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_arccos.o) (sqrt)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(tan.o)
+                              ./calc/calc.o (tan)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o) (strrev)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_norm2.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sqrt.o) (__fp_norm2)
+d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(inverse.o)
+                              d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(tan.o) (inverse)
+
+Allocating common symbols
+Common symbol       size              file
+
+amax                0x2               ./main.o
+amin                0x2               ./main.o
+lm_temp             0x2               ./main.o
+hour                0x1               ./main.o
+mou                 0x1               ./main.o
+adata               0x2               ./main.o
+min                 0x1               ./main.o
+year                0x1               ./main.o
+sec                 0x1               ./main.o
+lm_temp_min         0x2               ./main.o
+day                 0x1               ./main.o
+lm_temp_max         0x2               ./main.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm16.o
+LOAD ./menu/menu.o
+LOAD ./lsm303/lsm303.o
+LOAD ./lcd/lcd.o
+LOAD ./i2c/i2c.o
+LOAD ./eprom/eprom.o
+LOAD ./ds1307/ds1307.o
+LOAD ./calc/calc.o
+LOAD ./adc/adc.o
+LOAD ./main.o
+LOAD d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x4742
+ *(.vectors)
+ .vectors       0x00000000       0x54 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm16.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_fplib
+                0x00000054       0x14 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(asin.o)
+ .progmem.gcc_fplib
+                0x00000068       0x28 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_arccos.o)
+ .progmem.gcc_fplib
+                0x00000090       0x1e d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_sinus.o)
+ .progmem.gcc_fplib
+                0x000000ae       0x23 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(tan.o)
+ *(.progmem*)
+                0x000000d2                . = ALIGN (0x2)
+ *fill*         0x000000d1        0x1 00
+                0x000000d2                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000d2        0x0 linker stubs
+ *(.trampolines*)
+                0x000000d2                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000d2                __ctors_start = .
+ *(.ctors)
+                0x000000d2                __ctors_end = .
+                0x000000d2                __dtors_start = .
+ *(.dtors)
+                0x000000d2                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000d2        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm16.o
+                0x000000d2                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000d2        0xc d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm16.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000de       0x16 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x000000de                __do_copy_data
+ .init4         0x000000f4       0x10 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x000000f4                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000104        0x8 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm16.o
+ *(.init9)
+ *(.text)
+ .text          0x0000010c        0x4 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm16.o
+                0x0000010c                __vector_1
+                0x0000010c                __vector_12
+                0x0000010c                __bad_interrupt
+                0x0000010c                __vector_6
+                0x0000010c                __vector_3
+                0x0000010c                __vector_11
+                0x0000010c                __vector_13
+                0x0000010c                __vector_17
+                0x0000010c                __vector_19
+                0x0000010c                __vector_7
+                0x0000010c                __vector_5
+                0x0000010c                __vector_4
+                0x0000010c                __vector_9
+                0x0000010c                __vector_2
+                0x0000010c                __vector_15
+                0x0000010c                __vector_8
+                0x0000010c                __vector_14
+                0x0000010c                __vector_10
+                0x0000010c                __vector_16
+                0x0000010c                __vector_18
+                0x0000010c                __vector_20
+ .text          0x00000110        0x0 ./menu/menu.o
+ .text          0x00000110        0x0 ./lsm303/lsm303.o
+ .text          0x00000110        0x0 ./lcd/lcd.o
+ .text          0x00000110        0x0 ./i2c/i2c.o
+ .text          0x00000110        0x0 ./eprom/eprom.o
+ .text          0x00000110        0x0 ./ds1307/ds1307.o
+ .text          0x00000110        0x0 ./calc/calc.o
+ .text          0x00000110        0x0 ./adc/adc.o
+ .text          0x00000110        0x0 ./main.o
+ .text          0x00000110        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000110        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+ .text          0x00000110        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000110        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000110        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000110        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000110        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000110       0x58 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                0x00000110                __fixunssfsi
+ .text          0x00000168      0x354 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                0x00000400                __subsf3
+                0x00000462                __addsf3
+ .text          0x000004bc      0x1f4 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                0x000004bc                __mulsf3
+ .text          0x000006b0      0x158 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                0x000006b0                __divsf3
+ .text          0x00000808       0x60 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                0x00000808                __gtsf2
+ .text          0x00000868       0x60 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                0x00000868                __gesf2
+ .text          0x000008c8       0x60 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                0x000008c8                __ltsf2
+ .text          0x00000928       0xbc d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+                0x00000928                __floatsisf
+ .text          0x000009e4       0xa8 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                0x000009e4                __fixsfsi
+ .text          0x00000a8c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x00000a8c       0xf2 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                0x00000a8c                __floatunsisf
+ .text          0x00000b7e        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000b7e        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x00000b7e        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .text          0x00000b7e       0x9e d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                0x00000b7e                __clzsi2
+ .text          0x00000c1c      0x1aa d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                0x00000c1c                __pack_f
+ .text          0x00000dc6       0xf0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                0x00000dc6                __unpack_f
+ .text          0x00000eb6       0xb2 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x00000eb6                __fpcmp_parts_f
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(acos.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(addsf3x.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(asin.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cos.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(floor.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_arccos.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_inf.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mintl.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mpack.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_nan.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_powser.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_powsodd.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_pscA.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_pscB.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_rempio2.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_round.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_sinus.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_split3.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_trunc.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_zero.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsf3x.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sin.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sqrt.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(tan.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_norm2.o)
+ .text          0x00000f68        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(inverse.o)
+                0x00000f68                . = ALIGN (0x2)
+ *(.text.*)
+ .text.button_init
+                0x00000f68        0xe ./menu/menu.o
+                0x00000f68                button_init
+ .text.show_adc
+                0x00000f76       0x5a ./menu/menu.o
+                0x00000f76                show_adc
+ .text.open_door
+                0x00000fd0       0x68 ./menu/menu.o
+                0x00000fd0                open_door
+ .text.close_door
+                0x00001038       0x68 ./menu/menu.o
+                0x00001038                close_door
+ .text.set_date
+                0x000010a0      0x5cc ./menu/menu.o
+                0x000010a0                set_date
+ .text.service_menu
+                0x0000166c      0x108 ./menu/menu.o
+                0x0000166c                service_menu
+ .text.check_buttons
+                0x00001774       0x8c ./menu/menu.o
+                0x00001774                check_buttons
+ .text.check_adc
+                0x00001800       0x64 ./menu/menu.o
+                0x00001800                check_adc
+ .text.lm_read  0x00001864       0x58 ./lsm303/lsm303.o
+                0x00001864                lm_read
+ .text.lm_init  0x000018bc       0x1c ./lsm303/lsm303.o
+                0x000018bc                lm_init
+ .text.setC     0x000018d8        0x6 ./lcd/lcd.o
+                0x000018d8                setC
+ .text.digitalWrite
+                0x000018de       0x78 ./lcd/lcd.o
+                0x000018de                digitalWrite
+ .text.zrob_znak
+                0x00001956        0xa ./lcd/lcd.o
+                0x00001956                zrob_znak
+ .text.lcd_pisz
+                0x00001960       0xb8 ./lcd/lcd.o
+                0x00001960                lcd_pisz
+ .text.ustaw_lcd
+                0x00001a18       0x58 ./lcd/lcd.o
+                0x00001a18                ustaw_lcd
+ .text.lcd_send
+                0x00001a70       0x3a ./lcd/lcd.o
+                0x00001a70                lcd_send
+ .text.lcd_putstring
+                0x00001aaa       0x28 ./lcd/lcd.o
+                0x00001aaa                lcd_putstring
+ .text.lcd_clear
+                0x00001ad2       0x22 ./lcd/lcd.o
+                0x00001ad2                lcd_clear
+ .text.loop     0x00001af4       0x90 ./lcd/lcd.o
+                0x00001af4                loop
+ .text.lcd_Init_no_blink
+                0x00001b84       0x96 ./lcd/lcd.o
+                0x00001b84                lcd_Init_no_blink
+ .text.lcd_Init_blink
+                0x00001c1a       0xae ./lcd/lcd.o
+                0x00001c1a                lcd_Init_blink
+ .text.setup    0x00001cc8       0x32 ./lcd/lcd.o
+                0x00001cc8                setup
+ .text.lcd_send_nr
+                0x00001cfa       0x44 ./lcd/lcd.o
+                0x00001cfa                lcd_send_nr
+ .text.lcd_wschod_zachod
+                0x00001d3e       0x8c ./lcd/lcd.o
+                0x00001d3e                lcd_wschod_zachod
+ .text.lcd_time
+                0x00001dca       0x9c ./lcd/lcd.o
+                0x00001dca                lcd_time
+ .text.i2c_init
+                0x00001e66        0xa ./i2c/i2c.o
+                0x00001e66                i2c_init
+ .text.i2c_start
+                0x00001e70       0x20 ./i2c/i2c.o
+                0x00001e70                i2c_start
+ .text.i2c_stop
+                0x00001e90       0x1c ./i2c/i2c.o
+                0x00001e90                i2c_stop
+ .text.i2c_send_byte
+                0x00001eac       0x6a ./i2c/i2c.o
+                0x00001eac                i2c_send_byte
+ .text.i2c_sendTo
+                0x00001f16        0x8 ./i2c/i2c.o
+                0x00001f16                i2c_sendTo
+ .text.i2c_requestFrom
+                0x00001f1e        0xa ./i2c/i2c.o
+                0x00001f1e                i2c_requestFrom
+ .text.i2c_send
+                0x00001f28       0x2e ./i2c/i2c.o
+                0x00001f28                i2c_send
+ .text.i2c_read
+                0x00001f56       0x8c ./i2c/i2c.o
+                0x00001f56                i2c_read
+ .text.i2c_read_byte
+                0x00001fe2       0x98 ./i2c/i2c.o
+                0x00001fe2                i2c_read_byte
+ .text.eprom_writeTo
+                0x0000207a       0x12 ./eprom/eprom.o
+                0x0000207a                eprom_writeTo
+ .text.eprom_readFrom
+                0x0000208c       0x16 ./eprom/eprom.o
+                0x0000208c                eprom_readFrom
+ .text.ds_checkSQW
+                0x000020a2       0x12 ./ds1307/ds1307.o
+                0x000020a2                ds_checkSQW
+ .text.ds_SQWblink
+                0x000020b4       0x16 ./ds1307/ds1307.o
+                0x000020b4                ds_SQWblink
+ .text.ds_enableSQW
+                0x000020ca       0x22 ./ds1307/ds1307.o
+                0x000020ca                ds_enableSQW
+ .text.ds_setSingleReg
+                0x000020ec       0x28 ./ds1307/ds1307.o
+                0x000020ec                ds_setSingleReg
+ .text.ds_setTime
+                0x00002114      0x122 ./ds1307/ds1307.o
+                0x00002114                ds_setTime
+ .text.ds_readSingleReg
+                0x00002236       0x28 ./ds1307/ds1307.o
+                0x00002236                ds_readSingleReg
+ .text.ds_readDate
+                0x0000225e       0x52 ./ds1307/ds1307.o
+                0x0000225e                ds_readDate
+ .text.ds_readTime
+                0x000022b0       0x52 ./ds1307/ds1307.o
+                0x000022b0                ds_readTime
+ .text.ds_init  0x00002302        0xa ./ds1307/ds1307.o
+                0x00002302                ds_init
+ .text.isLeapYear
+                0x0000230c       0x32 ./calc/calc.o
+                0x0000230c                isLeapYear
+ .text.degToRad
+                0x0000233e       0x1a ./calc/calc.o
+                0x0000233e                degToRad
+ .text.radToDeg
+                0x00002358       0x1a ./calc/calc.o
+                0x00002358                radToDeg
+ .text.getTimeLocal
+                0x00002372       0x6e ./calc/calc.o
+                0x00002372                getTimeLocal
+ .text.calcTimeJulianCent
+                0x000023e0       0x1a ./calc/calc.o
+                0x000023e0                calcTimeJulianCent
+ .text.calcMeanObliquityOfEcliptic
+                0x000023fa       0x92 ./calc/calc.o
+                0x000023fa                calcMeanObliquityOfEcliptic
+ .text.calcGeomMeanLongSun
+                0x0000248c       0x9a ./calc/calc.o
+                0x0000248c                calcGeomMeanLongSun
+ .text.calcEccentricityEarthOrbit
+                0x00002526       0x4a ./calc/calc.o
+                0x00002526                calcEccentricityEarthOrbit
+ .text.calcGeomMeanAnomalySun
+                0x00002570       0x46 ./calc/calc.o
+                0x00002570                calcGeomMeanAnomalySun
+ .text.calcObliquityCorrection
+                0x000025b6       0x6a ./calc/calc.o
+                0x000025b6                calcObliquityCorrection
+ .text.calcHourAngleSunrise
+                0x00002620      0x10a ./calc/calc.o
+                0x00002620                calcHourAngleSunrise
+ .text.calcSunEqOfCenter
+                0x0000272a      0x16e ./calc/calc.o
+                0x0000272a                calcSunEqOfCenter
+ .text.calcSunTrueAnomaly
+                0x00002898       0x6a ./calc/calc.o
+                0x00002898                calcSunTrueAnomaly
+ .text.calcSunRadVector
+                0x00002902       0xda ./calc/calc.o
+                0x00002902                calcSunRadVector
+ .text.calcSunTrueLong
+                0x000029dc       0x42 ./calc/calc.o
+                0x000029dc                calcSunTrueLong
+ .text.calcSunApparentLong
+                0x00002a1e       0x86 ./calc/calc.o
+                0x00002a1e                calcSunApparentLong
+ .text.calcEquationOfTime
+                0x00002aa4      0x288 ./calc/calc.o
+                0x00002aa4                calcEquationOfTime
+ .text.MinutesToTime
+                0x00002d2c      0x104 ./calc/calc.o
+                0x00002d2c                MinutesToTime
+ .text.getJD    0x00002e30      0x124 ./calc/calc.o
+                0x00002e30                getJD
+ .text.calcSunDeclination
+                0x00002f54       0x6a ./calc/calc.o
+                0x00002f54                calcSunDeclination
+ .text.calcSunriseSetUTC
+                0x00002fbe       0xc6 ./calc/calc.o
+                0x00002fbe                calcSunriseSetUTC
+ .text.calcSunriseSet
+                0x00003084      0x1f4 ./calc/calc.o
+                0x00003084                calcSunriseSet
+ .text.calcAzEl
+                0x00003278      0x59e ./calc/calc.o
+                0x00003278                calcAzEl
+ .text.oblicz_pozycje_slonca
+                0x00003816      0x1b2 ./calc/calc.o
+                0x00003816                oblicz_pozycje_slonca
+ .text.adc_init
+                0x000039c8        0xc ./adc/adc.o
+                0x000039c8                adc_init
+ .text.adc_getdata
+                0x000039d4       0x14 ./adc/adc.o
+                0x000039d4                adc_getdata
+ .text.map      0x000039e8       0x8c ./adc/adc.o
+                0x000039e8                map
+ .text.adc_getVolt
+                0x00003a74       0x7a ./adc/adc.o
+                0x00003a74                adc_getVolt
+ .text.wyl_pwm_i_ustaw_stan
+                0x00003aee       0x16 ./main.o
+                0x00003aee                wyl_pwm_i_ustaw_stan
+ .text.wl_pwm   0x00003b04        0xc ./main.o
+                0x00003b04                wl_pwm
+ .text.port_init
+                0x00003b10       0x14 ./main.o
+                0x00003b10                port_init
+ .text.eeprom_init
+                0x00003b24       0x12 ./main.o
+                0x00003b24                eeprom_init
+ .text.main     0x00003b36      0x4a4 ./main.o
+                0x00003b36                main
+ .text.set_hour_12
+                0x00003fda       0x82 ./main.o
+                0x00003fda                set_hour_12
+ .text.libgcc   0x0000405c       0x3e d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                0x0000405c                __mulsi3
+ .text.libgcc   0x0000409a       0x18 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+                0x0000409a                __udivmodqi4
+ .text.libgcc   0x000040b2       0x28 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                0x000040b2                __udivmodhi4
+ .text.libgcc   0x000040da       0x36 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                0x000040da                __divmodsi4
+ .text.libgcc   0x00004110        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00004110        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00004110        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00004110       0x44 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                0x00004110                __udivmodsi4
+ .text.libgcc   0x00004154       0x38 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x00004154                __prologue_saves__
+ .text.libgcc   0x0000418c       0x36 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x0000418c                __epilogue_restores__
+ .text.avr-libc
+                0x000041c2       0x42 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+                0x000041c2                itoa
+ .text.avr-libc.fplib
+                0x00004204       0x1c d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(acos.o)
+                0x00004204                acos
+ .text.avr-libc.fplib
+                0x00004220       0xc0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(addsf3x.o)
+                0x0000423a                __addsf3x
+ .text.avr-libc.fplib
+                0x000042e0       0x2e d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(asin.o)
+                0x000042e0                asin
+ .text.avr-libc.fplib
+                0x0000430e        0x6 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cos.o)
+                0x0000430e                cos
+ .text.avr-libc.fplib
+                0x00004314       0x26 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(floor.o)
+                0x00004314                floor
+ .text.avr-libc.fplib
+                0x0000433a       0x36 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_arccos.o)
+                0x0000433a                __fp_arccos
+ .text.avr-libc.fplib
+                0x00004370        0xc d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_inf.o)
+                0x00004370                __fp_inf
+ .text.avr-libc.fplib
+                0x0000437c       0x36 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mintl.o)
+                0x0000437c                __fp_mintl
+ .text.avr-libc.fplib
+                0x000043b2       0x1c d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mpack.o)
+                0x000043b6                __fp_mpack_finite
+                0x000043b2                __fp_mpack
+ .text.avr-libc.fplib
+                0x000043ce        0x6 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_nan.o)
+                0x000043ce                __fp_nan
+ .text.avr-libc.fplib
+                0x000043d4       0x4a d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_powser.o)
+                0x000043d4                __fp_powser
+ .text.avr-libc.fplib
+                0x0000441e       0x22 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_powsodd.o)
+                0x0000441e                __fp_powsodd
+ .text.avr-libc.fplib
+                0x00004440        0xe d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_pscA.o)
+                0x00004440                __fp_pscA
+ .text.avr-libc.fplib
+                0x0000444e        0xe d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_pscB.o)
+                0x0000444e                __fp_pscB
+ .text.avr-libc.fplib
+                0x0000445c       0x50 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_rempio2.o)
+                0x0000445e                __fp_rempio2
+ .text.avr-libc.fplib
+                0x000044ac       0x22 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_round.o)
+                0x000044ac                __fp_round
+ .text.avr-libc.fplib
+                0x000044ce       0x22 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_sinus.o)
+                0x000044ce                __fp_sinus
+ .text.avr-libc.fplib
+                0x000044f0       0x44 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_split3.o)
+                0x000044f0                __fp_split3
+                0x00004500                __fp_splitA
+ .text.avr-libc.fplib
+                0x00004534       0x2e d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_trunc.o)
+                0x00004534                __fp_trunc
+ .text.avr-libc.fplib
+                0x00004562        0xe d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_zero.o)
+                0x00004562                __fp_zero
+                0x00004564                __fp_szero
+ .text.avr-libc.fplib
+                0x00004570       0xc2 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsf3x.o)
+                0x00004588                __mulsf3_pse
+                0x00004584                __mulsf3x
+ .text.avr-libc.fplib
+                0x00004632        0xc d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sin.o)
+                0x00004632                sin
+ .text.avr-libc.fplib
+                0x0000463e       0x84 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sqrt.o)
+                0x00004646                sqrt
+ .text.avr-libc.fplib
+                0x000046c2       0x40 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(tan.o)
+                0x000046c2                tan
+ .text.avr-libc
+                0x00004702       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+                0x00004702                strrev
+ .text.avr-libc.fplib
+                0x00004722        0xe d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_norm2.o)
+                0x00004722                __fp_norm2
+ .text.avr-libc.fplib
+                0x00004730        0xe d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(inverse.o)
+                0x00004730                inverse
+                0x0000473e                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000473e        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x0000473e                exit
+                0x0000473e                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000473e        0x4 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00004742                _etext = .
+
+.data           0x00800060      0x1ec load address 0x00004742
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm16.o
+ .data          0x00800060       0x8e ./menu/menu.o
+ .data          0x008000ee        0x0 ./lsm303/lsm303.o
+ .data          0x008000ee       0x28 ./lcd/lcd.o
+ .data          0x00800116        0x0 ./i2c/i2c.o
+ .data          0x00800116        0x0 ./eprom/eprom.o
+ .data          0x00800116        0x0 ./ds1307/ds1307.o
+ .data          0x00800116        0x0 ./calc/calc.o
+ .data          0x00800116        0x0 ./adc/adc.o
+ .data          0x00800116       0x11 ./main.o
+ .data          0x00800127        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00800127        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+ .data          0x00800127        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00800127        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00800127        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x00800127        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800127        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00800127        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x00800127        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x00800127        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .data          0x00800127        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .data          0x00800127        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .data          0x00800127        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .data          0x00800127        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .data          0x00800127        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .data          0x00800127        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x00800127        0x8 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                0x00800127                __thenan_sf
+ .data          0x0080012f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .data          0x0080012f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x0080012f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x0080012f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x0080012f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .data          0x0080012f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .data          0x0080012f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x0080012f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x0080012f      0x100 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                0x0080012f                __clz_tab
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(acos.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(addsf3x.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(asin.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cos.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(floor.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_arccos.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_inf.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mintl.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mpack.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_nan.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_powser.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_powsodd.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_pscA.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_pscB.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_rempio2.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_round.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_sinus.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_split3.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_trunc.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_zero.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsf3x.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sin.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sqrt.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(tan.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_norm2.o)
+ .data          0x0080022f        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(inverse.o)
+ *(.data*)
+ .data.piny     0x0080022f        0x8 ./lcd/lcd.o
+                0x0080022f                piny
+ .data.stopien  0x00800237        0x9 ./lcd/lcd.o
+                0x00800237                stopien
+ *(.rodata)
+ *(.rodata*)
+ .rodata.numdays
+                0x00800240        0xc ./calc/calc.o
+ *(.gnu.linkonce.d*)
+                0x0080024c                . = ALIGN (0x2)
+                0x0080024c                _edata = .
+                0x0080024c                PROVIDE (__data_end, .)
+
+.bss            0x0080024c       0x2e
+                0x0080024c                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm16.o
+ .bss           0x0080024c        0x0 ./menu/menu.o
+ .bss           0x0080024c        0x0 ./lsm303/lsm303.o
+ .bss           0x0080024c        0x0 ./lcd/lcd.o
+ .bss           0x0080024c        0x0 ./i2c/i2c.o
+ .bss           0x0080024c        0x0 ./eprom/eprom.o
+ .bss           0x0080024c        0x0 ./ds1307/ds1307.o
+ .bss           0x0080024c        0x0 ./calc/calc.o
+ .bss           0x0080024c        0x0 ./adc/adc.o
+ .bss           0x0080024c        0x0 ./main.o
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(acos.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(addsf3x.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(asin.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cos.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(floor.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_arccos.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_inf.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mintl.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mpack.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_nan.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_powser.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_powsodd.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_pscA.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_pscB.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_rempio2.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_round.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_sinus.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_split3.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_trunc.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_zero.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsf3x.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sin.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sqrt.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(tan.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_norm2.o)
+ .bss           0x0080024c        0x0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(inverse.o)
+ *(.bss*)
+ .bss.cursor    0x0080024c        0x1 ./lcd/lcd.o
+                0x0080024c                cursor
+ .bss.cDeclination
+                0x0080024d        0x4 ./calc/calc.o
+                0x0080024d                cDeclination
+ .bss.cEquation
+                0x00800251        0x4 ./calc/calc.o
+                0x00800251                cEquation
+ .bss.cAltitude
+                0x00800255        0x4 ./calc/calc.o
+                0x00800255                cAltitude
+ .bss.cAzimuth  0x00800259        0x4 ./calc/calc.o
+                0x00800259                cAzimuth
+ .bss.cSolarH   0x0080025d        0x1 ./calc/calc.o
+                0x0080025d                cSolarH
+ .bss.cSolarM   0x0080025e        0x1 ./calc/calc.o
+                0x0080025e                cSolarM
+ .bss.cSunriseH
+                0x0080025f        0x1 ./calc/calc.o
+                0x0080025f                cSunriseH
+ .bss.cSunriseM
+                0x00800260        0x1 ./calc/calc.o
+                0x00800260                cSunriseM
+ .bss.cSunriseOK
+                0x00800261        0x1 ./calc/calc.o
+                0x00800261                cSunriseOK
+ .bss.cSunsetH  0x00800262        0x1 ./calc/calc.o
+                0x00800262                cSunsetH
+ .bss.cSunsetM  0x00800263        0x1 ./calc/calc.o
+                0x00800263                cSunsetM
+ .bss.cSunsetOK
+                0x00800264        0x1 ./calc/calc.o
+                0x00800264                cSunsetOK
+ .bss.service_mode
+                0x00800265        0x1 ./main.o
+                0x00800265                service_mode
+ .bss.disp_on   0x00800266        0x1 ./main.o
+                0x00800266                disp_on
+ .bss.i         0x00800267        0x1 ./main.o
+                0x00800267                i
+ *(COMMON)
+ COMMON         0x00800268       0x12 ./main.o
+                0x00800268                amax
+                0x0080026a                amin
+                0x0080026c                lm_temp
+                0x0080026e                hour
+                0x0080026f                mou
+                0x00800270                adata
+                0x00800272                min
+                0x00800273                year
+                0x00800274                sec
+                0x00800275                lm_temp_min
+                0x00800277                day
+                0x00800278                lm_temp_max
+                0x0080027a                PROVIDE (__bss_end, .)
+                0x00004742                __data_load_start = LOADADDR (.data)
+                0x0000492e                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080027a        0x0
+                0x0080027a                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0080027a                PROVIDE (__noinit_end, .)
+                0x0080027a                _end = .
+                0x0080027a                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x1c0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000020       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000040       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000060       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_aranges
+                0x00000080       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x000000a0       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x000000c0       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x000000e0       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_aranges
+                0x00000100       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x00000120       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_aranges
+                0x00000140       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000160       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000180       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x000001a0       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x214
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x23 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000023       0x2c d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x0000004f       0x1f d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x0000006e       0x1f d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_pubnames
+                0x0000008d       0x1e d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x000000ab       0x1e d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x000000c9       0x1e d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x000000e7       0x22 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_pubnames
+                0x00000109       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x00000129       0x22 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x0000014b       0x24 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_pubnames
+                0x0000016f       0x1f d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_pubnames
+                0x0000018e       0x1f d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x000001ad       0x21 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x000001ce       0x26 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_pubnames
+                0x000001f4       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_info     0x00000000     0x2612
+ *(.debug_info)
+ .debug_info    0x00000000       0xb1 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x000000b1      0x47a d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_info    0x0000052b      0x485 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_info    0x000009b0      0x3fc d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_info    0x00000dac      0x27f d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_info    0x0000102b      0x27f d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_info    0x000012aa      0x27f d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_info    0x00001529      0x207 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_info    0x00001730      0x2b0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_info    0x000019e0      0x12c d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00001b0c      0x206 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_info    0x00001d12      0x117 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_info    0x00001e29      0x2df d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_info    0x00002108      0x251 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_info    0x00002359      0x210 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_info    0x00002569       0xa9 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x14ce
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x5d d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000005d      0x1ea d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x00000247      0x21b d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00000462      0x216 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_abbrev  0x00000678      0x15a d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x000007d2      0x15a d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x0000092c      0x15a d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00000a86      0x148 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_abbrev  0x00000bce      0x17f d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00000d4d       0xad d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00000dfa      0x157 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_abbrev  0x00000f51       0xc4 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00001015      0x1c0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x000011d5      0x154 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x00001329      0x13b d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_abbrev  0x00001464       0x6a d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_line     0x00000000     0x130b
+ *(.debug_line)
+ .debug_line    0x00000000       0xa7 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x000000a7      0x2af d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000356      0x239 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_line    0x0000058f      0x1d5 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_line    0x00000764       0xd3 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_line    0x00000837       0xd3 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_line    0x0000090a       0xd3 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_line    0x000009dd      0x135 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_line    0x00000b12      0x109 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_line    0x00000c1b       0x90 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_line    0x00000cab      0x133 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_line    0x00000dde       0xa5 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_line    0x00000e83      0x18a d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_line    0x0000100d      0x14b d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_line    0x00001158      0x137 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_line    0x0000128f       0x7c d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_frame    0x00000000      0x1e0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000020       0x40 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00000060       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000080       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_frame   0x000000a0       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_frame   0x000000c0       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_frame   0x000000e0       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_frame   0x00000100       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_frame   0x00000120       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x00000140       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_frame   0x00000160       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_frame   0x00000180       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_frame   0x000001a0       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x000001c0       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x307
+ *(.debug_str)
+ .debug_str     0x00000000       0xbf d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                 0xfe (size before relaxing)
+ .debug_str     0x000000bf      0x14d d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x0000020c       0x27 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00000233       0x35 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                                0x1c8 (size before relaxing)
+ .debug_str     0x00000268        0x8 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000270        0x8 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000278        0x8 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000280       0x1e d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+                                0x17b (size before relaxing)
+ .debug_str     0x0000029e        0xa d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00000000      0x103 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_str     0x000002a8       0x14 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                                0x177 (size before relaxing)
+ .debug_str     0x000002bc       0x20 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                                0x111 (size before relaxing)
+ .debug_str     0x000002dc       0x10 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x000002ec        0xb d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x000002f7       0x10 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+ .debug_str     0x00000000       0xf4 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_loc      0x00000000      0xa1a
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x34 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00000034      0x32a d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000035e      0x104 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00000462       0xc0 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_loc     0x00000522       0x3c d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_loc     0x0000055e       0x3c d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_loc     0x0000059a       0x3c d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_loc     0x000005d6       0xac d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_loc     0x00000682       0x7e d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x00000700       0x4c d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_loc     0x0000074c       0x94 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_loc     0x000007e0      0x13e d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_loc     0x0000091e       0xac d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x000009ca       0x50 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(kurnik_1.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x50
+ .debug_ranges  0x00000000       0x50 d:/programy/eclipse/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
