@@ -81,8 +81,8 @@ void set_hour_12(void){
 	ds_setTime(0,0,12,dt,day,mounth,year);
 }
 void port_init(void){
-	//	DDRA &= ~(1<<PA3);  //œwiat³o bez pwm
-	//	PORTA &= ~(1<PA0);  //na pocz¹tku zgaszone
+	//	DDRA &= ~(1<<PA3);  //ï¿½wiatï¿½o bez pwm
+	//	PORTA &= ~(1<PA0);  //na poczï¿½tku zgaszone
 	DDRB = 0xFF;  // pwm
 	//	DDRB &= ~((1<<PB5)|(1<<PB0)|(1<<PB6)|(1<<PB1)|(1<<PB4));  //przyciski STARE !!!
 	PORTB = (1<<PB5)|(1<<PB6)|(1<<PB0)|(1<<PB1)|(1<<PB4);  //pullup
@@ -103,7 +103,7 @@ int main(void){
 	button_init();
 	motor_init;
 	setup();
-	eeprom_init();  //do zapisu skrajnej wartoœci ADC
+	eeprom_init();  //do zapisu skrajnej wartoï¿½ci ADC
 	DDRD |= (1<<PD7);// PIN od pwm
 	TCCR2 = (1<<WGM20)|(1<<COM21)|(1<<CS21);
 	OCR2 = 0;
@@ -192,10 +192,10 @@ int main(void){
 		oblicz_pozycje_slonca(THIS_POSITION_LAT,THIS_POSITION_LON,1,2000+year,mou,day,hour,min,sec);
 
 
-		if(min==cSunriseM && hour==cSunriseH && sec<=30){  //  wschód
+		if(min==cSunriseM && hour==cSunriseH && sec<=30){  //  wschï¿½d
 			open_door();
 		}
-		if(min==cSunsetM && hour==(cSunsetH + 1) && sec<=30){  //  zachód
+		if(min==cSunsetM && hour==(cSunsetH + 1) && sec<=30){  //  zachï¿½d
 			close_door();
 		}
 
@@ -205,20 +205,19 @@ int main(void){
 			wl_pwm(val1);
 		}
 		else if(hour>=7&&hour<=18){
-//			wyl_pwm_i_ustaw_stan(0);
-//			if(adc>(adc_res + 25)){
-//				wyl_pwm_i_ustaw_stan(1);
-//				PWM_LED_OFF;
-//			}
-//			if(adc<(adc_res - 25)){
-//				wyl_pwm_i_ustaw_stan(0);
-//				PWM_LED_ON;
-//			}
-//			if(adc>(adc_res-25) && adc<(adc_res+25)){
-//			}
+			if(adc>(adc_res + 25)){
+				wyl_pwm_i_ustaw_stan(1);
+				PWM_LED_OFF;
+			}
+			if(adc<(adc_res - 25)){
+				wyl_pwm_i_ustaw_stan(0);
+				PWM_LED_ON;
+			}
+			if(adc>(adc_res-25) && adc<(adc_res+25)){
+			}
 		}
 
-		else if(hour>=19&&hour<=20){
+		else if(hour>=20&&hour<=21){
 			val =  (hour-19)*60 + min;
 			val1 = map(val,0,119,255,0);
 			wl_pwm(val1);
